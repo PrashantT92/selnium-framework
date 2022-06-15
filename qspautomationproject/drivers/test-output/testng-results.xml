@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ft1]]>
+    </line>
+    <line>
+      <![CDATA[ft2]]>
+    </line>
+    <line>
+      <![CDATA[ft3]]>
+    </line>
+    <line>
+      <![CDATA[ft4]]>
+    </line>
+    <line>
+      <![CDATA[ft5]]>
+    </line>
+    <line>
+      <![CDATA[ft6]]>
+    </line>
+    <line>
+      <![CDATA[it1]]>
+    </line>
+    <line>
+      <![CDATA[it2]]>
+    </line>
+    <line>
+      <![CDATA[it3]]>
+    </line>
+    <line>
+      <![CDATA[it4]]>
+    </line>
+    <line>
+      <![CDATA[it5]]>
+    </line>
+    <line>
+      <![CDATA[it6]]>
+    </line>
+    <line>
+      <![CDATA[st1]]>
+    </line>
+    <line>
+      <![CDATA[st2]]>
+    </line>
+    <line>
+      <![CDATA[st3]]>
+    </line>
+    <line>
+      <![CDATA[st4]]>
+    </line>
+    <line>
+      <![CDATA[st5]]>
+    </line>
+    <line>
+      <![CDATA[st6]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-06T09:16:42 IST" name="Default suite" finished-at="2022-06-06T09:16:43 IST" duration-ms="910">
+    <groups>
+      <group name="functional">
+        <method signature="Flag7.ft1()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="ft1" class="teastNg.Flag7"/>
+        <method signature="Flag7.ft2()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="ft2" class="teastNg.Flag7"/>
+        <method signature="Flag7.ft3()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="ft3" class="teastNg.Flag7"/>
+        <method signature="Flag7.ft4()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="ft4" class="teastNg.Flag7"/>
+        <method signature="Flag7.ft5()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="ft5" class="teastNg.Flag7"/>
+        <method signature="Flag7.ft6()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="ft6" class="teastNg.Flag7"/>
+      </group> <!-- functional -->
+      <group name="smoke">
+        <method signature="Flag7.st1()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="st1" class="teastNg.Flag7"/>
+        <method signature="Flag7.st2()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="st2" class="teastNg.Flag7"/>
+        <method signature="Flag7.st3()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="st3" class="teastNg.Flag7"/>
+        <method signature="Flag7.st4()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="st4" class="teastNg.Flag7"/>
+        <method signature="Flag7.st5()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="st5" class="teastNg.Flag7"/>
+        <method signature="Flag7.st6()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="st6" class="teastNg.Flag7"/>
+      </group> <!-- smoke -->
+      <group name="integration">
+        <method signature="Flag7.it1()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="it1" class="teastNg.Flag7"/>
+        <method signature="Flag7.it2()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="it2" class="teastNg.Flag7"/>
+        <method signature="Flag7.it3()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="it3" class="teastNg.Flag7"/>
+        <method signature="Flag7.it4()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="it4" class="teastNg.Flag7"/>
+        <method signature="Flag7.it5()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="it5" class="teastNg.Flag7"/>
+        <method signature="Flag7.it6()[pri:0, instance:teastNg.Flag7@2accdbb5]" name="it6" class="teastNg.Flag7"/>
+      </group> <!-- integration -->
+    </groups>
+    <test started-at="2022-06-06T09:16:42 IST" name="Default test" finished-at="2022-06-06T09:16:43 IST" duration-ms="910">
+      <class name="teastNg.Flag7">
+        <test-method signature="ft1()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="ft1" finished-at="2022-06-06T09:16:43 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft1 -->
+        <test-method signature="ft2()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="ft2" finished-at="2022-06-06T09:16:43 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft2 -->
+        <test-method signature="ft3()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="ft3" finished-at="2022-06-06T09:16:43 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft3 -->
+        <test-method signature="ft4()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="ft4" finished-at="2022-06-06T09:16:43 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft4 -->
+        <test-method signature="ft5()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="ft5" finished-at="2022-06-06T09:16:43 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft5 -->
+        <test-method signature="ft6()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="ft6" finished-at="2022-06-06T09:16:43 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft6 -->
+        <test-method signature="it1()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="it1" finished-at="2022-06-06T09:16:43 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it1 -->
+        <test-method signature="it2()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="it2" finished-at="2022-06-06T09:16:43 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it2 -->
+        <test-method signature="it3()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="it3" finished-at="2022-06-06T09:16:43 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it3 -->
+        <test-method signature="it4()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="it4" finished-at="2022-06-06T09:16:43 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it4 -->
+        <test-method signature="it5()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="it5" finished-at="2022-06-06T09:16:43 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it5 -->
+        <test-method signature="it6()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="it6" finished-at="2022-06-06T09:16:43 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it6 -->
+        <test-method signature="st1()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="st1" finished-at="2022-06-06T09:16:43 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st1 -->
+        <test-method signature="st2()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="st2" finished-at="2022-06-06T09:16:43 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st2 -->
+        <test-method signature="st3()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="st3" finished-at="2022-06-06T09:16:43 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st3 -->
+        <test-method signature="st4()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="st4" finished-at="2022-06-06T09:16:43 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st4 -->
+        <test-method signature="st5()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="st5" finished-at="2022-06-06T09:16:43 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st5 -->
+        <test-method signature="st6()[pri:0, instance:teastNg.Flag7@2accdbb5]" started-at="2022-06-06T09:16:43 IST" name="st6" finished-at="2022-06-06T09:16:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st6 -->
+      </class> <!-- teastNg.Flag7 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
